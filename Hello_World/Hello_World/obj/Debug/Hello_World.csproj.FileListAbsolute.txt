@@ -4,3 +4,9 @@
 /Users/ellistrickett/Projects/Hello_World/Hello_World/obj/Debug/Hello_World.csproj.CoreCompileInputs.cache
 /Users/ellistrickett/Projects/Hello_World/Hello_World/obj/Debug/Hello_World.exe
 /Users/ellistrickett/Projects/Hello_World/Hello_World/obj/Debug/Hello_World.pdb
+/Users/ellistrickett/Projects/complete-c#-masterclass/Hello_World/Hello_World/bin/Debug/Hello_World.exe
+/Users/ellistrickett/Projects/complete-c#-masterclass/Hello_World/Hello_World/obj/Debug/Hello_World.csprojAssemblyReference.cache
+/Users/ellistrickett/Projects/complete-c#-masterclass/Hello_World/Hello_World/obj/Debug/Hello_World.csproj.CoreCompileInputs.cache
+/Users/ellistrickett/Projects/complete-c#-masterclass/Hello_World/Hello_World/bin/Debug/Hello_World.pdb
+/Users/ellistrickett/Projects/complete-c#-masterclass/Hello_World/Hello_World/obj/Debug/Hello_World.exe
+/Users/ellistrickett/Projects/complete-c#-masterclass/Hello_World/Hello_World/obj/Debug/Hello_World.pdb

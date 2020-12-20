@@ -6,21 +6,14 @@ namespace Hello_World
     {
         public static void Main(string[] args)
         {
-            int num1 = 13;
-            int num2 = 5;
-            int sum = num1 + num2;
-            
+            string myname = "Ellis";
+            string message = "My name is " + myname;
 
-            double d1 = 3.5;
-            double d2 = 1.337;
-            double sumD = d1 / d2;
-           
-            float f1 = 3.5F;
-            //Use casting
-            //int divDandI = d1 / num2;
+            string capsMessage = message.ToUpper();
 
-            Console.WriteLine("The sum of " + num1 + " and " + num2 + " is " + sum);
-            Console.WriteLine(d1 + " divided by " + " and " + num2 + " is " + sumD);
+            string lowerCaseMessage = message.ToLower();
+
+            Console.WriteLine(lowerCaseMessage);
             Console.Read();
         }
     }
