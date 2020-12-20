@@ -5,71 +5,41 @@ namespace Hello_World
     class Program
     {
 
+        static string username;
+        static string password;
+        static bool loggedIn = false;
+
         public static void Main(string[] args)
         {
-            int num1 = 5;
-            int num2 = 3;
-            int num3;
+            Register();
 
-            // urinary operators
-            num3 = -num1;
-            Console.WriteLine("num3 is {0}",num3);
+            Login();
+        }
 
-            bool isSunny = true;
-            Console.WriteLine("is it sunny? {0}", !isSunny);
+        public static void Register()
+        {
+            Console.WriteLine("Please type in your username");
+            username = Console.ReadLine();
 
-            // increment operators
-            int num = 0;
-            num++;
-            Console.WriteLine("num is {0}", num);
-            Console.WriteLine("num is {0}", num++);
-            // pre increment
-            Console.WriteLine("num is {0}", ++num);
+            Console.WriteLine("Please type in your password");
+            password = Console.ReadLine();
+        }
 
-            // decrement operator
-            num--;
-            Console.WriteLine("num is {0}", num);
-            Console.WriteLine("num is {0}", num--);
-            // pre decrement
-            Console.WriteLine("num is {0}", --num);
-
-            int result;
-
-            result = num1 + num2;
-            Console.WriteLine("result of num1 + num2 is {0}", result);
-            result = num1 - num2;
-            Console.WriteLine("result of num1 - num2 is {0}", result);
-            result = num1 / num2;
-            Console.WriteLine("result of num1 / num2 is {0}", result);
-            result = num1 * num2;
-            Console.WriteLine("result of num1 * num2 is {0}", result);
-            result = num1 % num2;
-            Console.WriteLine("result of num1 % num2 is {0}", result);
-
-            // relational and type operators
-            bool isLower;
-            isLower = num1 > num2;
-            Console.WriteLine("result of num1 > num2 is {0}", isLower);
-
-            // equality operator
-            bool isEqual;
-            isEqual = num1 == num2;
-            Console.WriteLine("result of num1 == num2 is {0}", isEqual);
-
-            isEqual = num1 != num2;
-            Console.WriteLine("result of num1 != num2 is {0}", isEqual);
-
-            // conditional operators
-            bool isLowerAndSunny;
-            // condition1 AND condition2
-            isLowerAndSunny = isLower && isSunny;
-            Console.WriteLine("result of isLower && isSunny is {0}", isLowerAndSunny);
-
-            // condition1 OR condition2
-            isLowerAndSunny = isLower || isSunny;
-            Console.WriteLine("result of isLower || isSunny is {0}", isLowerAndSunny);
-
-            Console.ReadKey();
+        public static void Login()
+        {
+            Console.WriteLine("To Log in type in your username");
+            if (username == Console.ReadLine())
+            {
+                Console.WriteLine("To Log in type in your password");
+                if (password == Console.ReadLine())
+                {
+                    Console.WriteLine("Login Successful");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Login failed");
+            }
         }
     }
 }
