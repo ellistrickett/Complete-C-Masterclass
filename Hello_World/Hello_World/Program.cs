@@ -7,23 +7,19 @@ namespace Hello_World
 
         public static void Main(string[] args)
         {
-            Console.WriteLine(Divide(100,13));
+            string name1 = "Ellis";
+            string name2 = "Mike";
+            string name3 = "Steve";
+
+            GreetFriend(name1);
+            GreetFriend(name2);
+            GreetFriend(name3);
             Console.Read();
         }
 
-        public static int Add(int num1, int num2)
+        public static void GreetFriend(string name)
         {
-            return num1 + num2;
-        }
-
-        public static int Multiply(int num1, int num2)
-        {
-            return num1 * num2;
-        }
-
-        public static double Divide(double num1, double num2)
-        {
-            return num1 / num2;
+            Console.WriteLine("Hi " + name + ", my friend!");
         }
     }
 }
