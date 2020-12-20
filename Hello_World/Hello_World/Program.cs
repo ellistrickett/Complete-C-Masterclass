@@ -7,22 +7,31 @@ namespace Hello_World
 
         public static void Main(string[] args)
         {
-            Console.WriteLine("Enter a number...");
-            string num1Input = Console.ReadLine();
+            Console.WriteLine("Please enter a number!");
+            string userInput = Console.ReadLine();
 
-            Console.WriteLine("Enter another number...");
-            string num2Input = Console.ReadLine();
+            try
+            {
+                int userInputAsInt = int.Parse(userInput);
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Format exception, please enter the correct type next time.");
+            }
+            catch (OverflowException)
+            {
+                Console.WriteLine("Overflow exception, the number was too long or too short for an int32.");
+            }
+            catch (ArgumentNullException)
+            {
+                Console.WriteLine("ArgumentNullException, the value was empty(null)");
+            }
+            finally
+            {
+                Console.WriteLine("This is called anyways!");
+            }
 
-            int num1 = int.Parse(num1Input);
-            int num2 = int.Parse(num2Input);
-
-            Console.WriteLine(num1 + " plus " + num2 + " equals " + Add(num1, num2));
-            Console.Read();
-        }
-
-        public static int Add(int num1, int num2)
-        {
-            return num1 + num2;
+            Console.ReadKey();
         }
     }
 }
