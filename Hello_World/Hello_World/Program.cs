@@ -7,18 +7,23 @@ namespace Hello_World
 
         public static void Main(string[] args)
         {
-            WriteSomething();
-            WriteSomethingSpecific("I am an argument and am called from a method");
+            Console.WriteLine(Divide(100,13));
             Console.Read();
         }
-        // access modifier (static) return type method name (parameter1, parameter2)
-        public static void WriteSomething()
+
+        public static int Add(int num1, int num2)
         {
-            Console.WriteLine("I am called from a method");
+            return num1 + num2;
         }
-        public static void WriteSomethingSpecific(string myText)
+
+        public static int Multiply(int num1, int num2)
         {
-            Console.WriteLine(myText);
+            return num1 * num2;
+        }
+
+        public static double Divide(double num1, double num2)
+        {
+            return num1 / num2;
         }
     }
 }
