@@ -1,0 +1,6 @@
+/Users/ellistrickett/Projects/Switch_Statement/Switch_Statement/bin/Debug/Switch_Statement.exe
+/Users/ellistrickett/Projects/Switch_Statement/Switch_Statement/bin/Debug/Switch_Statement.pdb
+/Users/ellistrickett/Projects/Switch_Statement/Switch_Statement/obj/Debug/Switch_Statement.csprojAssemblyReference.cache
+/Users/ellistrickett/Projects/Switch_Statement/Switch_Statement/obj/Debug/Switch_Statement.csproj.CoreCompileInputs.cache
+/Users/ellistrickett/Projects/Switch_Statement/Switch_Statement/obj/Debug/Switch_Statement.exe
+/Users/ellistrickett/Projects/Switch_Statement/Switch_Statement/obj/Debug/Switch_Statement.pdb

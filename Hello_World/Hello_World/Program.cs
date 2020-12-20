@@ -7,7 +7,6 @@ namespace Hello_World
 
         static string username;
         static string password;
-        static bool loggedIn = false;
 
         public static void Main(string[] args)
         {

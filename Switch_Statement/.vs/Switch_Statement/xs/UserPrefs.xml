@@ -1,13 +1,15 @@
-﻿<Properties StartupConfiguration="{DFF3F870-7269-48C7-A5FF-23527BEB54E1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Hello_World/Program.cs">
+﻿<Properties StartupConfiguration="{8560F6D1-3CBF-41C9-BF3A-8B4856D42E39}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Switch_Statement/Program.cs">
     <Files>
-      <File FileName="Hello_World/Program.cs" Line="25" Column="10" />
+      <File FileName="Switch_Statement/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Hello_World" expanded="True">
-            <Node name="Hello_World" expanded="True" selected="True" />
+          <Node name="Switch_Statement" expanded="True">
+            <Node name="Switch_Statement" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -16,8 +18,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Switch__Statement FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Hello__World PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
