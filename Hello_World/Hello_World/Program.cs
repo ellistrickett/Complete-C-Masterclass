@@ -1,20 +1,19 @@
 ﻿using System;
 
 namespace Hello_World
-{  // Class names like ClientActivity
+{  // Constants are immutable values which are known
+    // at compile time and do not change for the life of the program
     class Program
     {
+        // constants as fields
+        const double pI = 3.14159265359;
+        const int weeks = 52, month = 12;
+        const string birthday = "24.10.1995";
+
         public static void Main(string[] args)
         {
-            string myString = "15";
-            string mySecondString = "13";
-            int num1 = Int32.Parse(myString);
-            int num2 = Int32.Parse(mySecondString);
-            int resultInt = num1 + num2;
-            string result = myString + mySecondString;
-
-            Console.WriteLine(resultInt);
-            Console.Read();
+            Console.WriteLine("My Birthday is always going to be: {0}", birthday);
+            Console.ReadKey();
         }
     }
 }
