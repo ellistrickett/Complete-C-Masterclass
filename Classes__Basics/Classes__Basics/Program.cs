@@ -8,15 +8,10 @@ namespace Classes__Basics
         {
             // Create an object of my class
             // an instance of Human
-            Human denis = new Human();
-            // access public variable from outside, and even change it
-            denis.firstName = "Denis";
-            denis.lastName = "Smith";
-            // call method of a class
-            denis.IntroduceMyself();
-
-            Human michael = new Human();
-            michael.IntroduceMyself();
+            Human ellis = new Human("Ellis", "Trickett", "Blue", 25);
+            Human dave = new Human("Dave", "Smith", "Brown", 1);
+            ellis.IntroduceMyself();
+            dave.IntroduceMyself();
 
             Console.ReadKey();
         }
