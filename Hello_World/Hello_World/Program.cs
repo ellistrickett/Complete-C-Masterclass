@@ -1,19 +1,32 @@
 ﻿using System;
 
 namespace Hello_World
-{
-    class MainClass
+{  // Class names like ClientActivity
+    class Program
     {
         public static void Main(string[] args)
         {
-            string myname = "Ellis";
-            string message = "My name is " + myname;
+            // implicit conversion
+            int num = 12390532;
+            long bigNum = num;
 
-            string capsMessage = message.ToUpper();
+            float myFloat = 13.37F;
+            double myNewDouble = myFloat;
 
-            string lowerCaseMessage = message.ToLower();
+            double myDouble = 13.37;
+            int myInt;
+            // explicit conversion
+            // cast Double into int;
+            myInt = (int)myDouble;
 
-            Console.WriteLine(lowerCaseMessage);
+            // typeConversion
+            string myString = myDouble.ToString(); //"13.376"
+            string floatString = myFloat.ToString();
+            bool sunIsShining = true;
+
+            string myBoolString = sunIsShining.ToString();
+
+            Console.WriteLine(myBoolString);
             Console.Read();
         }
     }
