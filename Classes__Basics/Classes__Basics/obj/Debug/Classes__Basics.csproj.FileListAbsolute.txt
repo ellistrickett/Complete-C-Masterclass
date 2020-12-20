@@ -1,0 +1,6 @@
+/Users/ellistrickett/Projects/complete-c#-masterclass/Classes__Basics/Classes__Basics/bin/Debug/Classes__Basics.exe
+/Users/ellistrickett/Projects/complete-c#-masterclass/Classes__Basics/Classes__Basics/bin/Debug/Classes__Basics.pdb
+/Users/ellistrickett/Projects/complete-c#-masterclass/Classes__Basics/Classes__Basics/obj/Debug/Classes__Basics.csprojAssemblyReference.cache
+/Users/ellistrickett/Projects/complete-c#-masterclass/Classes__Basics/Classes__Basics/obj/Debug/Classes__Basics.csproj.CoreCompileInputs.cache
+/Users/ellistrickett/Projects/complete-c#-masterclass/Classes__Basics/Classes__Basics/obj/Debug/Classes__Basics.exe
+/Users/ellistrickett/Projects/complete-c#-masterclass/Classes__Basics/Classes__Basics/obj/Debug/Classes__Basics.pdb

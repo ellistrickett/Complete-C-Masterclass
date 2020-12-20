@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{276A2B17-405C-42A4-B41E-4CCE70A88D12}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Classes__Basics/Human.cs">
+    <Files>
+      <File FileName="Classes__Basics/Program.cs" Line="1" Column="1" />
+      <File FileName="Classes__Basics/Human.cs" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Classes__Basics" expanded="True">
+            <Node name="Classes__Basics" expanded="True">
+              <Node name="Human.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Classes____Basics FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
