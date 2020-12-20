@@ -7,19 +7,22 @@ namespace Hello_World
 
         public static void Main(string[] args)
         {
-            string name1 = "Ellis";
-            string name2 = "Mike";
-            string name3 = "Steve";
+            Console.WriteLine("Enter a number...");
+            string num1Input = Console.ReadLine();
 
-            GreetFriend(name1);
-            GreetFriend(name2);
-            GreetFriend(name3);
+            Console.WriteLine("Enter another number...");
+            string num2Input = Console.ReadLine();
+
+            int num1 = int.Parse(num1Input);
+            int num2 = int.Parse(num2Input);
+
+            Console.WriteLine(num1 + " plus " + num2 + " equals " + Add(num1, num2));
             Console.Read();
         }
 
-        public static void GreetFriend(string name)
+        public static int Add(int num1, int num2)
         {
-            Console.WriteLine("Hi " + name + ", my friend!");
+            return num1 + num2;
         }
     }
 }
