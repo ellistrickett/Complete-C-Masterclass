@@ -6,27 +6,14 @@ namespace Hello_World
     {
         public static void Main(string[] args)
         {
-            // implicit conversion
-            int num = 12390532;
-            long bigNum = num;
+            string myString = "15";
+            string mySecondString = "13";
+            int num1 = Int32.Parse(myString);
+            int num2 = Int32.Parse(mySecondString);
+            int resultInt = num1 + num2;
+            string result = myString + mySecondString;
 
-            float myFloat = 13.37F;
-            double myNewDouble = myFloat;
-
-            double myDouble = 13.37;
-            int myInt;
-            // explicit conversion
-            // cast Double into int;
-            myInt = (int)myDouble;
-
-            // typeConversion
-            string myString = myDouble.ToString(); //"13.376"
-            string floatString = myFloat.ToString();
-            bool sunIsShining = true;
-
-            string myBoolString = sunIsShining.ToString();
-
-            Console.WriteLine(myBoolString);
+            Console.WriteLine(resultInt);
             Console.Read();
         }
     }
