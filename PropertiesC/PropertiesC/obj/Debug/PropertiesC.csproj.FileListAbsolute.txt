@@ -1,0 +1,6 @@
+/Users/ellistrickett/Projects/complete-c#-masterclass/PropertiesC/PropertiesC/bin/Debug/PropertiesC.exe
+/Users/ellistrickett/Projects/complete-c#-masterclass/PropertiesC/PropertiesC/bin/Debug/PropertiesC.pdb
+/Users/ellistrickett/Projects/complete-c#-masterclass/PropertiesC/PropertiesC/obj/Debug/PropertiesC.csprojAssemblyReference.cache
+/Users/ellistrickett/Projects/complete-c#-masterclass/PropertiesC/PropertiesC/obj/Debug/PropertiesC.csproj.CoreCompileInputs.cache
+/Users/ellistrickett/Projects/complete-c#-masterclass/PropertiesC/PropertiesC/obj/Debug/PropertiesC.exe
+/Users/ellistrickett/Projects/complete-c#-masterclass/PropertiesC/PropertiesC/obj/Debug/PropertiesC.pdb
