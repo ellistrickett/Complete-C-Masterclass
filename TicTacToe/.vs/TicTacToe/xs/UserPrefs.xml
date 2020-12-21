@@ -1,14 +1,15 @@
-﻿<Properties StartupConfiguration="{CA3545A7-C299-459A-AE95-8EA4D34D7F99}|Default">
-  <MonoDevelop.Ide.ItemProperties.__07______Arrays PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_07___Arrays/Program.cs">
+﻿<Properties StartupConfiguration="{6A42BE4F-3CCA-44EB-8B51-34A21B547C1F}|Default">
+  <MonoDevelop.Ide.ItemProperties.TicTacToe PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToe/Program.cs">
     <Files>
-      <File FileName="_07___Arrays/Program.cs" Line="43" Column="1" />
+      <File FileName="TicTacToe/Program.cs" Line="17" Column="14" />
+      <File FileName="TicTacToe/Table.cs" Line="5" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="_07___Arrays" expanded="True">
-            <Node name="_07___Arrays" expanded="True">
+          <Node name="TicTacToe" expanded="True">
+            <Node name="TicTacToe" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
