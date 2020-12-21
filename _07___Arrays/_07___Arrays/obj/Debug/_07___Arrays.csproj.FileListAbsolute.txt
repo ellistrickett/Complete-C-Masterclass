@@ -4,3 +4,9 @@
 /Users/ellistrickett/Projects/_07___Arrays/_07___Arrays/obj/Debug/_07___Arrays.csproj.CoreCompileInputs.cache
 /Users/ellistrickett/Projects/_07___Arrays/_07___Arrays/obj/Debug/_07___Arrays.exe
 /Users/ellistrickett/Projects/_07___Arrays/_07___Arrays/obj/Debug/_07___Arrays.pdb
+/Users/ellistrickett/Projects/complete-c#-masterclass/_07___Arrays/_07___Arrays/bin/Debug/_07___Arrays.exe
+/Users/ellistrickett/Projects/complete-c#-masterclass/_07___Arrays/_07___Arrays/obj/Debug/_07___Arrays.csprojAssemblyReference.cache
+/Users/ellistrickett/Projects/complete-c#-masterclass/_07___Arrays/_07___Arrays/obj/Debug/_07___Arrays.csproj.CoreCompileInputs.cache
+/Users/ellistrickett/Projects/complete-c#-masterclass/_07___Arrays/_07___Arrays/bin/Debug/_07___Arrays.pdb
+/Users/ellistrickett/Projects/complete-c#-masterclass/_07___Arrays/_07___Arrays/obj/Debug/_07___Arrays.exe
+/Users/ellistrickett/Projects/complete-c#-masterclass/_07___Arrays/_07___Arrays/obj/Debug/_07___Arrays.pdb

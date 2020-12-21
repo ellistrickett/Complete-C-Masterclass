@@ -6,22 +6,12 @@ namespace _07___Arrays
     {
         static void Main(string[] args)
         {
-            int[] nums = new int[10];
-
-            for(int i = 0; i < 10; i++)
-            {
-                nums[i] = i + 10;
-            }
-
-            for (int j = 0; j < nums.Length; j++)
-            {
-                Console.WriteLine("Element {0} = {1}", j, nums[j]);
-            }
+            string[] friends = { "Ellis", "Steve", "Michael", "Jack", "June" };
 
             int counter = 0;
-            foreach(int k in nums)
+            foreach(string i in friends)
             {
-                Console.WriteLine("Element {0} = {1}", counter, k);
+                Console.WriteLine("Hey {0}", i);
                 counter++;
             }
 
