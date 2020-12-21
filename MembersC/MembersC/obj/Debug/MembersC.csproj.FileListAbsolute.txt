@@ -1,0 +1,6 @@
+/Users/ellistrickett/Projects/complete-c#-masterclass/MembersC/MembersC/bin/Debug/MembersC.exe
+/Users/ellistrickett/Projects/complete-c#-masterclass/MembersC/MembersC/bin/Debug/MembersC.pdb
+/Users/ellistrickett/Projects/complete-c#-masterclass/MembersC/MembersC/obj/Debug/MembersC.csprojAssemblyReference.cache
+/Users/ellistrickett/Projects/complete-c#-masterclass/MembersC/MembersC/obj/Debug/MembersC.csproj.CoreCompileInputs.cache
+/Users/ellistrickett/Projects/complete-c#-masterclass/MembersC/MembersC/obj/Debug/MembersC.exe
+/Users/ellistrickett/Projects/complete-c#-masterclass/MembersC/MembersC/obj/Debug/MembersC.pdb

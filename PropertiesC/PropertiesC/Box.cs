@@ -19,6 +19,11 @@ namespace PropertiesC
             this.Width = width;
         }
 
+        public int FrontSurface
+        {
+            get { return length * height; }
+        }
+
         public int Volume {
             get
             {

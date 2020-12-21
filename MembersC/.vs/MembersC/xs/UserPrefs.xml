@@ -1,15 +1,16 @@
-﻿<Properties StartupConfiguration="{29CA456A-D455-46D9-85E1-A3D0DE0B6AD2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PropertiesC/Box.cs">
+﻿<Properties StartupConfiguration="{CA8C7D93-32B0-44E6-9F35-1DCF70941B50}|Default">
+  <MonoDevelop.Ide.ItemProperties.MembersC FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MembersC/Members.cs">
     <Files>
-      <File FileName="PropertiesC/Program.cs" Line="14" Column="48" />
-      <File FileName="PropertiesC/Box.cs" Line="25" Column="10" />
+      <File FileName="MembersC/Program.cs" Line="1" Column="1" />
+      <File FileName="MembersC/Members.cs" Line="6" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PropertiesC" expanded="True">
-            <Node name="PropertiesC" expanded="True">
-              <Node name="Box.cs" selected="True" />
+          <Node name="MembersC" expanded="True">
+            <Node name="MembersC" expanded="True">
+              <Node name="Members.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -19,7 +20,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.PropertiesC PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

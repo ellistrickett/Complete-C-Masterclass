@@ -10,6 +10,8 @@ namespace PropertiesC
             Console.WriteLine("Volume is {0}", box.Volume);
 
             box.DisplayInfo();
+
+            Console.WriteLine(box.FrontSurface);
             Console.ReadKey();
         }
 
